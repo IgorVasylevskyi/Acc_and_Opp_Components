@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee59679-a118-43c9-85d8-fc39af2c0026" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/illuminatedCloud.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IlluminatedCloud/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/igor1@redtrainoct19.com1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/AccountController.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/AccountController.cls-meta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls-meta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/TestOpportunityTriggerHandler.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/TestOpportunityTriggerHandler.cls-meta.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/ChildComponent/ChildComponent.cmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/ChildComponent/ChildComponent.cmp-meta.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoice.cmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoice.cmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/Main/Main.cmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/Main/Main.cmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/ParentComponent/ParentComponent.cmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/ParentComponent/ParentComponent.cmp-meta.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/invoiceSaved/invoiceSaved.evt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/invoiceSaved/invoiceSaved.evt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IlluminatedCloud/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,12 +42,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IlluminatedCloud/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -1254,7 +1229,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581416275389" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581416465058" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -1282,16 +1257,15 @@
       <option name="presentableId" value="Default" />
       <updated>1581153548239</updated>
       <workItem from="1581153552459" duration="63000" />
-      <workItem from="1581153618526" duration="17090000" />
+      <workItem from="1581153618526" duration="17335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17153000" />
+    <option name="totallyTimeSpent" value="17398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1368" y="-8" width="1376" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20440729" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1359,10 +1333,6 @@
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/AccountController.cls">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aura/Main/MainController.js">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
@@ -1390,12 +1360,12 @@
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/IlluminatedCloud/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/classes/AccountController.cls">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
