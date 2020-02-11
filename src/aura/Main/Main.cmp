@@ -1,5 +1,4 @@
-<aura:component description="Main" implements="force:lightningQuickActionWithoutHeader,
-                                    force:hasRecordId, force:hasSObjectName" controller="AccountController">
+<aura:component description="Main" implements="force:lightningQuickActionWithoutHeader,force:hasRecordId,force:hasSObjectName" controller="AccountController">
 
     <aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
     <aura:handler name="saved" event="c:invoiceSaved" action="{!c.changeShowGenerate}"/>

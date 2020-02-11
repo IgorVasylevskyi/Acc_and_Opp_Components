@@ -1,6 +1,0 @@
-<!--
- - Created by Igor on 08.02.2020.
- -->
-
-<aura:component description="ChildComponent">
-</aura:component>
