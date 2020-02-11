@@ -1,0 +1,7 @@
+<!--
+ - Created by Igor on 09.02.2020.
+ -->
+
+<aura:event type="APPLICATION" description="invoiceSaved">
+    <aura:attribute name="saved" type="boolean" default="false"/>
+</aura:event>

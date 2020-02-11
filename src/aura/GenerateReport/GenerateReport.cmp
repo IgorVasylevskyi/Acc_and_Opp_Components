@@ -1,0 +1,10 @@
+<aura:component description="GenerateReport" implements="force:lightningQuickActionWithoutHeader,
+                                        force:hasRecordId, force:hasSObjectName">
+
+        <div class="slds-text-heading_large">
+            <lightning:input type="radio" label="A" value="1"/>
+            <lightning:input type="radio" label="B" value="2"/>
+            <lightning:input type="radio" label="C" value="3"/>
+        </div>
+
+</aura:component>

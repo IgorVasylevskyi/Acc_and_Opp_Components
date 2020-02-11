@@ -1,0 +1,15 @@
+<aura:component description="FillInvoice" implements="force:lightningQuickActionWithoutHeader,
+                                        force:hasRecordId, force:hasSObjectName"
+                controller="FillInvoiceNumberController">
+
+    <aura:attribute name="sObjectName" type="String"/>
+    <aura:attribute name="invoiceNumber" type="String"/>
+    <aura:registerEvent name="saved" type="c:invoiceSaved"/>
+
+    <br/>
+    <div><lightning:input aura:id="invoiceInput" label="Invoice Number" type="text"/></div>
+    <br/>
+    <div align="right"><lightning:button label="Save" variant="brand" onclick="{! c.saveNumber }"/></div>
+    <div>sobjectType: {!v.sObjectName}</div>
+
+</aura:component>
