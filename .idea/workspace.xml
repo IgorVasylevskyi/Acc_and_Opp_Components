@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee59679-a118-43c9-85d8-fc39af2c0026" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classes/AccountControllerTest.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/AccountControllerTest.cls-meta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls-meta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/InsertOppTestData.cls-meta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/MainOppTriggerHandlerTest.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/MainOppTriggerHandlerTest.cls-meta.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip" beforeDir="false" afterPath="$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/igor1@redtrainoct19.com1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/igor1@redtrainoct19.com1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/AccountController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/AccountController.cls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +25,7 @@
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls">
           <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
           <provider editor-type-id="text-editor">
@@ -43,10 +36,13 @@
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/AccountControllerTest.cls">
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classes/MainOppTriggerHandlerTest.cls">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -56,7 +52,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/AccountControllerTest.cls">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classes/InsertOppTestData.cls">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls">
           <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
         </entry>
@@ -70,8 +78,8 @@
         <option value="Lightning Application Event" />
         <option value="Lightning Controller" />
         <option value="Apex Trigger" />
-        <option value="Apex Unit Test Class" />
         <option value="Apex Class" />
+        <option value="Apex Unit Test Class" />
         <option value="Apex Metadata" />
       </list>
     </option>
@@ -94,11 +102,12 @@
         <option value="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" />
-        <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" />
-        <option value="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" />
         <option value="$PROJECT_DIR$/src/classes/AccountControllerTest.cls" />
         <option value="$PROJECT_DIR$/src/classes/AccountController.cls" />
         <option value="$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls" />
+        <option value="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" />
+        <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" />
+        <option value="$PROJECT_DIR$/src/classes/MainOppTriggerHandlerTest.cls" />
       </list>
     </option>
   </component>
@@ -108,7 +117,7 @@
         <entry key="igor1@redtrainoct19.com1">
           <value>
             <ModuleWorkspaceSettings>
-              <option name="moduleContentsLastModified" value="1581502984917" />
+              <option name="moduleContentsLastModified" value="1581506960040" />
               <option name="serverMetadataLastPopulated" value="1581502338044" />
             </ModuleWorkspaceSettings>
           </value>
@@ -131,8 +140,9 @@
                       <entry key="CLASSES/ACCOUNTCONTROLLER.CLS" value="1581502043208" />
                       <entry key="CLASSES/ACCOUNTCONTROLLERTEST.CLS" value="1581501898871" />
                       <entry key="CLASSES/FILLINVOICENUMBERTEST.CLS" value="1581499263238" />
-                      <entry key="CLASSES/INSERTOPPTESTDATA.CLS" value="1581499673167" />
-                      <entry key="CLASSES/MAINOPPTRIGGERHANDLER.CLS" value="1581503883921" />
+                      <entry key="CLASSES/INSERTOPPTESTDATA.CLS" value="1581509853679" />
+                      <entry key="CLASSES/MAINOPPTRIGGERHANDLER.CLS" value="1581507057000" />
+                      <entry key="CLASSES/MAINOPPTRIGGERHANDLERTEST.CLS" value="1581510144872" />
                     </map>
                   </option>
                   <option name="lastBuildScope" value="CONTEXT" />
@@ -1227,7 +1237,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581504960015" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581515940169" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -1266,18 +1276,18 @@
       <workItem from="1581491871528" duration="222000" />
       <workItem from="1581493481801" duration="103000" />
       <workItem from="1581493635668" duration="8611000" />
-      <workItem from="1581502446363" duration="2178000" />
+      <workItem from="1581502446363" duration="7875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30708000" />
+    <option name="totallyTimeSpent" value="36405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1300,7 +1310,7 @@
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="SOQL Query" order="15" />
-      <window_info active="true" anchor="bottom" id="Illuminated Cloud" order="16" visible="true" weight="0.17224081" />
+      <window_info anchor="bottom" id="Illuminated Cloud" order="16" weight="0.17224081" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1320,10 +1330,6 @@
     <entry file="file://$PROJECT_DIR$/src/aura/ChildComponent/ChildComponent.cmp" />
     <entry file="jar://$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip!/ApexClass.cls">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/TestOpportunityTriggerHandler.cls">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/triggers/af.trigger" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -1374,11 +1380,24 @@
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls">
+    <entry file="file://$PROJECT_DIR$/src/classes/TestOpportunityTriggerHandler.cls">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        <state>
+          <caret column="71" selection-start-column="71" selection-end-column="71" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/AccountControllerTest.cls">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="32" column="96" selection-start-line="32" selection-start-column="96" selection-end-line="32" selection-end-column="96" />
         </state>
       </provider>
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
@@ -1401,27 +1420,25 @@
       </provider>
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/AccountControllerTest.cls">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="32" column="96" selection-start-line="32" selection-start-column="96" selection-end-line="32" selection-end-column="96" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/AccountController.cls">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls">
+    <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider editor-type-id="text-editor">
-        <state>
-          <caret column="71" selection-start-column="71" selection-end-column="71" />
+        <state relative-caret-position="80">
+          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
         </state>
       </provider>
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/MainOppTriggerHandlerTest.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

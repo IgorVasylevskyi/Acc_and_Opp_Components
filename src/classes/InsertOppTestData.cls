@@ -37,4 +37,10 @@ public class InsertOppTestData {
         insert opp;
         return opp;
     }
+    
+    public static Account addAccount(){
+        Account acc = new Account(Name = 'test acc');
+        insert acc;
+        return acc;
+    }
 }

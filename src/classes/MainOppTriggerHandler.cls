@@ -1,7 +1,7 @@
 public with sharing class MainOppTriggerHandler extends TriggerHandler{
     public Map<Id, Account> getAccMap(){
+        
         List<Id> accsIds = new List<Id>();
-    
         for (Opportunity opp : (List<Opportunity>) Trigger.new){
             accsIds.add(opp.AccountId);
         }
@@ -12,13 +12,6 @@ public with sharing class MainOppTriggerHandler extends TriggerHandler{
     
     public override void beforeInsert(){
     
-        /*List<Id> accsIds = new List<Id>();
-    
-        for (Opportunity opp : (Opportunity) Trigger.new){
-            accsIds.add(opp.AccountId);
-        }
-        Map<Id, Account> accMap = new Map<Id, Account>([SELECT Id, Name, Main_Opps__c
-                                                        FROM Account WHERE Id IN :accsIds]);*/
         Map<Id, Account> accMap = getAccMap();
     
         for (Opportunity opp : (List<Opportunity>) Trigger.new) {

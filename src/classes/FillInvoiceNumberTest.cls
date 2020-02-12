@@ -7,8 +7,6 @@ private class FillInvoiceNumberTest {
         String num = 'ABC123';
         
         Test.startTest();
-        //opp.Invoicing_Item_Number__c = num;
-        //Database.SaveResult result = Database.update(opp);
         FillInvoiceNumberController.addInvoiceNumberOpp(opp.Id, num);
         Test.stopTest();
         
