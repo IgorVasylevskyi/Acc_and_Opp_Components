@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee59679-a118-43c9-85d8-fc39af2c0026" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/classes/AccountControllerTest.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/AccountControllerTest.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/InsertOppTestData.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls-meta.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IlluminatedCloud/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip" beforeDir="false" afterPath="$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/igor1@redtrainoct19.com1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/igor1@redtrainoct19.com1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/AccountController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/AccountController.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,64 +25,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/Main/Main.cmp">
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classes/AccountController.cls">
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
           <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/Main/MainController.js">
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoice.cmp">
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+          <provider editor-type-id="text-editor">
+            <state>
+              <caret column="71" selection-start-column="71" selection-end-column="71" />
+            </state>
+          </provider>
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js">
+        <entry file="file://$PROJECT_DIR$/src/classes/AccountControllerTest.cls">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/invoiceSaved/invoiceSaved.evt">
+        <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp">
+        <entry file="file://$PROJECT_DIR$/src/classes/InsertOppTestData.cls">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/GenerateReport/GenerateReportController.js">
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
         </entry>
       </file>
     </leaf>
@@ -81,6 +69,8 @@
         <option value="Lightning Component" />
         <option value="Lightning Application Event" />
         <option value="Lightning Controller" />
+        <option value="Apex Trigger" />
+        <option value="Apex Unit Test Class" />
         <option value="Apex Class" />
         <option value="Apex Metadata" />
       </list>
@@ -96,13 +86,19 @@
         <option value="$PROJECT_DIR$/src/aura/ChildComponent/ChildComponent.cmp" />
         <option value="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoice.cmp" />
         <option value="$PROJECT_DIR$/src/aura/invoiceSaved/invoiceSaved.evt" />
-        <option value="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" />
         <option value="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReportController.js" />
         <option value="$PROJECT_DIR$/src/aura/Main/Main.cmp" />
         <option value="$PROJECT_DIR$/src/aura/Main/MainController.js" />
-        <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" />
         <option value="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp" />
         <option value="$PROJECT_DIR$/IlluminatedCloud/.gitignore" />
+        <option value="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" />
+        <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" />
+        <option value="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" />
+        <option value="$PROJECT_DIR$/src/classes/AccountControllerTest.cls" />
+        <option value="$PROJECT_DIR$/src/classes/AccountController.cls" />
+        <option value="$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls" />
       </list>
     </option>
   </component>
@@ -112,8 +108,8 @@
         <entry key="igor1@redtrainoct19.com1">
           <value>
             <ModuleWorkspaceSettings>
-              <option name="moduleContentsLastModified" value="1581415830903" />
-              <option name="serverMetadataLastPopulated" value="1581415823675" />
+              <option name="moduleContentsLastModified" value="1581502984917" />
+              <option name="serverMetadataLastPopulated" value="1581502338044" />
             </ModuleWorkspaceSettings>
           </value>
         </entry>
@@ -128,10 +124,15 @@
                 <ConnectionWorkspaceSettings>
                   <option name="buildSuccessDatesBySourceRootRelativePath">
                     <map>
-                      <entry key="AURA/FILLINVOICE" value="1581329984903" />
+                      <entry key="AURA/FILLINVOICE" value="1581428316783" />
                       <entry key="AURA/GENERATEREPORT" value="1581415470747" />
                       <entry key="AURA/INVOICESAVED" value="1581326977000" />
                       <entry key="AURA/MAIN" value="1581414206000" />
+                      <entry key="CLASSES/ACCOUNTCONTROLLER.CLS" value="1581502043208" />
+                      <entry key="CLASSES/ACCOUNTCONTROLLERTEST.CLS" value="1581501898871" />
+                      <entry key="CLASSES/FILLINVOICENUMBERTEST.CLS" value="1581499263238" />
+                      <entry key="CLASSES/INSERTOPPTESTDATA.CLS" value="1581499673167" />
+                      <entry key="CLASSES/MAINOPPTRIGGERHANDLER.CLS" value="1581503883921" />
                     </map>
                   </option>
                   <option name="lastBuildScope" value="CONTEXT" />
@@ -159,7 +160,7 @@
             <entry key="igor1@redtrainoct19.com">
               <value>
                 <MetadataContents>
-                  <option name="lastPopulated" value="1581415830903" />
+                  <option name="lastPopulated" value="1581502984917" />
                   <option name="metadataTypes">
                     <set>
                       <MetadataType>
@@ -174,8 +175,8 @@
                             <option value="PlatformPortal" />
                             <option value="External Identity User" />
                             <option value="Force%2Ecom - App Subscription User" />
-                            <option value="Chatter External User" />
                             <option value="Standard" />
+                            <option value="Chatter External User" />
                             <option value="Identity User" />
                             <option value="Custom%3A Sales Profile" />
                             <option value="Partner Community Login User" />
@@ -190,13 +191,13 @@
                             <option value="SolutionManager" />
                             <option value="Chatter Free User" />
                             <option value="HighVolumePortal" />
-                            <option value="Customer Portal Manager Standard" />
                             <option value="MarketingProfile" />
+                            <option value="Customer Portal Manager Standard" />
                             <option value="Customer Community Login User" />
                             <option value="Analytics Cloud Security User" />
                             <option value="Admin" />
-                            <option value="Partner App Subscription User" />
                             <option value="Work%2Ecom Only User" />
+                            <option value="Partner App Subscription User" />
                             <option value="Silver Partner User" />
                             <option value="Authenticated Website" />
                             <option value="Customer Community User" />
@@ -252,9 +253,9 @@
                             <option value="Product" />
                             <option value="Security" />
                             <option value="Knowledge" />
-                            <option value="Ideas" />
-                            <option value="Case" />
                             <option value="Name" />
+                            <option value="Case" />
+                            <option value="Ideas" />
                             <option value="Territory2" />
                             <option value="FieldService" />
                             <option value="LiveMessage" />
@@ -262,8 +263,8 @@
                             <option value="Opportunity" />
                             <option value="Search" />
                             <option value="FileUploadAndDownloadSecurity" />
-                            <option value="Order" />
                             <option value="Activities" />
+                            <option value="Order" />
                             <option value="OrgPreference" />
                             <option value="BusinessHours" />
                             <option value="Forecasting" />
@@ -288,18 +289,18 @@
                       <MetadataType>
                         <option name="members">
                           <set>
-                            <option value="Case.Standard" />
-                          </set>
-                        </option>
-                        <option name="name" value="EscalationRule" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
                             <option value="gds-1" />
                           </set>
                         </option>
                         <option name="name" value="Flow" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Standard" />
+                          </set>
+                        </option>
+                        <option name="name" value="EscalationRule" />
                       </MetadataType>
                       <MetadataType>
                         <option name="members">
@@ -316,24 +317,24 @@
                             <option value="Contact.Level__c" />
                             <option value="Opportunity.MainCompetitors__c" />
                             <option value="Product2.Current_Quantity__c" />
-                            <option value="Account.SLASerialNumber__c" />
                             <option value="Account.UpsellOpportunity__c" />
+                            <option value="Account.SLASerialNumber__c" />
                             <option value="Goal.OrigGoalId__c" />
                             <option value="Account.CustomerPriority__c" />
-                            <option value="Account.Main_Opps__c" />
                             <option value="Account.SLA__c" />
+                            <option value="Account.Main_Opps__c" />
                             <option value="Lead.SICCode__c" />
                             <option value="Contact.Languages__c" />
                             <option value="Opportunity.OrderNumber__c" />
-                            <option value="Metric.OrigMetricId__c" />
                             <option value="Case.EngineeringReqNumber__c" />
+                            <option value="Metric.OrigMetricId__c" />
                             <option value="CaseComment.CommentBody" />
                             <option value="Account.SLAExpirationDate__c" />
                             <option value="Opportunity.CurrentGenerators__c" />
                             <option value="Product2.Booked__c" />
                             <option value="Case.PotentialLiability__c" />
-                            <option value="Opportunity.Invoicing_Item_Number__c" />
                             <option value="Lead.ProductInterest__c" />
+                            <option value="Opportunity.Invoicing_Item_Number__c" />
                             <option value="Lead.NumberofLocations__c" />
                             <option value="Case.Product__c" />
                           </set>
@@ -351,20 +352,52 @@
                       <MetadataType>
                         <option name="members">
                           <set>
+                            <option value="Campaign.ViewCampaignInfluenceReport" />
+                            <option value="Opportunity.DeliveryStatus" />
+                            <option value="Case.UpsellCrosssellOpportunity" />
+                            <option value="Account.Billing" />
+                          </set>
+                        </option>
+                        <option name="name" value="WebLink" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Opportunity.new" />
+                          </set>
+                        </option>
+                        <option name="name" value="CompactLayout" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Metric.Progress" />
+                            <option value="Opportunity.My_Opp_Type" />
+                            <option value="Metric.Completion" />
+                            <option value="Account.My_Type" />
+                            <option value="Account.High_Wealth_Type" />
+                            <option value="Account.Retirement_Type" />
+                          </set>
+                        </option>
+                        <option name="name" value="RecordType" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
                             <option value="DirectorDirectSales" />
                             <option value="SVPSalesMarketing" />
-                            <option value="COO" />
                             <option value="MarketingTeam" />
+                            <option value="COO" />
                             <option value="DirectorChannelSales" />
                             <option value="InstallationRepairServices" />
                             <option value="SVPHumanResources" />
                             <option value="SVPCustomerServiceSupport" />
                             <option value="VPInternationalSales" />
+                            <option value="EasternSalesTeam" />
                             <option value="CEO" />
                             <option value="ChannelSalesTeam" />
-                            <option value="EasternSalesTeam" />
-                            <option value="CustomerSupportInternational" />
                             <option value="CFO" />
+                            <option value="CustomerSupportInternational" />
                             <option value="CustomerSupportNorthAmerica" />
                             <option value="WesternSalesTeam" />
                             <option value="VPMarketing" />
@@ -380,67 +413,6 @@
                           </set>
                         </option>
                         <option name="name" value="InstalledPackage" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Christmas_Trees_UtilityBar" />
-                            <option value="Account_Record_Page" />
-                            <option value="LightningSalesConsole_UtilityBar" />
-                            <option value="Opportunity_Record_Page" />
-                            <option value="LightningService_UtilityBar" />
-                          </set>
-                        </option>
-                        <option name="name" value="FlexiPage" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Salesforce1" />
-                            <option value="AppSwitcher" />
-                          </set>
-                        </option>
-                        <option name="name" value="AppMenu" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="PassAccountData" />
-                            <option value="fillInvoiceNumber" />
-                            <option value="generateOppReport" />
-                            <option value="sdaf" />
-                            <option value="NavigateToC2" />
-                            <option value="GenerateReport" />
-                            <option value="Main" />
-                            <option value="FillInvoice" />
-                            <option value="invoiceSaved" />
-                          </set>
-                        </option>
-                        <option name="name" value="AuraDefinitionBundle" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Stand_Usual_User_profileSessionSetting1579181995189" />
-                          </set>
-                        </option>
-                        <option name="name" value="ProfileSessionSetting" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="SelfSignedCert_04Feb2020_102347" />
-                          </set>
-                        </option>
-                        <option name="name" value="Certificate" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Stand_Usual_User_profilePasswordPolicy1579181995135" />
-                          </set>
-                        </option>
-                        <option name="name" value="ProfilePasswordPolicy" />
                       </MetadataType>
                       <MetadataType>
                         <option name="members">
@@ -474,26 +446,95 @@
                       <MetadataType>
                         <option name="members">
                           <set>
+                            <option value="Christmas_Trees_UtilityBar" />
+                            <option value="Account_Record_Page" />
+                            <option value="Opportunity_Record_Page" />
+                            <option value="LightningSalesConsole_UtilityBar" />
+                            <option value="LightningService_UtilityBar" />
+                          </set>
+                        </option>
+                        <option name="name" value="FlexiPage" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Salesforce1" />
+                            <option value="AppSwitcher" />
+                          </set>
+                        </option>
+                        <option name="name" value="AppMenu" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="PassAccountData" />
+                            <option value="fillInvoiceNumber" />
+                            <option value="generateOppReport" />
+                            <option value="sdaf" />
+                            <option value="NavigateToC2" />
+                            <option value="GenerateReport" />
+                            <option value="Main" />
+                            <option value="FillInvoice" />
+                            <option value="invoiceSaved" />
+                          </set>
+                        </option>
+                        <option name="name" value="AuraDefinitionBundle" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="SelfSignedCert_04Feb2020_102347" />
+                          </set>
+                        </option>
+                        <option name="name" value="Certificate" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Stand_Usual_User_profileSessionSetting1579181995189" />
+                          </set>
+                        </option>
+                        <option name="name" value="ProfileSessionSetting" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Stand_Usual_User_profilePasswordPolicy1579181995135" />
+                          </set>
+                        </option>
+                        <option name="name" value="ProfilePasswordPolicy" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Internal Zone" />
+                          </set>
+                        </option>
+                        <option name="name" value="Community" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
                             <option value="Account-Account %28Sales%29 Layout" />
                             <option value="Contact-Contact %28Support%29 Layout" />
                             <option value="Product2-Product Layout" />
                             <option value="Lead-Lead Layout" />
                             <option value="ConsumptionRate-Consumption Rate Layout" />
-                            <option value="Case-Case %28Sales%29 Layout" />
                             <option value="Contact-Contact Layout" />
+                            <option value="Case-Case %28Sales%29 Layout" />
                             <option value="Lead-Lead %28Support%29 Layout" />
-                            <option value="DandBCompany-D%26B Company Layout" />
                             <option value="AuthorizationFormConsent-Authorization Form Consent Layout" />
+                            <option value="DandBCompany-D%26B Company Layout" />
                             <option value="Case-Case %28Support%29 Layout" />
                             <option value="AssetRelationship-Asset Relationship Layout" />
                             <option value="DataUseLegalBasis-Data Use Legal Basis Layout" />
                             <option value="Macro-Macro Layout" />
                             <option value="Order-Order Layout" />
-                            <option value="ScorecardMetric-Scorecard Metric Layout" />
                             <option value="UserProvisioningRequest-User Provisioning Request Layout" />
                             <option value="Solution-Solution Layout" />
-                            <option value="Pricebook2-Price Book Layout" />
+                            <option value="ScorecardMetric-Scorecard Metric Layout" />
                             <option value="Event-Event Layout" />
+                            <option value="Pricebook2-Price Book Layout" />
                             <option value="UserProvisioningLog-User Provisioning Log Layout" />
                             <option value="UserProvAccount-User Provisioning Account Layout" />
                             <option value="Contact-Contact %28Marketing%29 Layout" />
@@ -501,8 +542,8 @@
                             <option value="ContactPointTypeConsent-Contact Point Type Consent Layout" />
                             <option value="ConsumptionSchedule-Consumption Schedule Layout" />
                             <option value="DataUsePurpose-Data Use Purpose Layout" />
-                            <option value="Opportunity-Opportunity Layout" />
                             <option value="Asset-Asset Layout" />
+                            <option value="Opportunity-Opportunity Layout" />
                             <option value="OrderItem-Order Product Layout" />
                             <option value="DuplicateRecordSet-Duplicate Record Set Layout" />
                             <option value="OpportunityLineItem-Opportunity Product Layout" />
@@ -519,8 +560,8 @@
                             <option value="Case-Case %28Marketing%29 Layout" />
                             <option value="PricebookEntry-Price Book Entry Layout" />
                             <option value="CaseClose-Close Case Layout" />
-                            <option value="Idea-Idea Layout" />
                             <option value="FeedItem-Feed Item Layout" />
+                            <option value="Idea-Idea Layout" />
                             <option value="ContentVersion-Content Version Layout" />
                             <option value="Opportunity-Opportunity %28Support%29 Layout" />
                             <option value="Global-Global Layout" />
@@ -533,8 +574,8 @@
                             <option value="Account-Account %28Support%29 Layout" />
                             <option value="CampaignMember-Campaign Member Page Layout" />
                             <option value="QuickText-Quick Text Layout" />
-                            <option value="Contact-Contact %28Sales%29 Layout" />
                             <option value="User-User Layout" />
+                            <option value="Contact-Contact %28Sales%29 Layout" />
                             <option value="Lead-Lead %28Marketing%29 Layout" />
                             <option value="AuthorizationFormDataUse-Authorization Form Data Use Layout" />
                             <option value="AuthorizationForm-Authorization Form Layout" />
@@ -549,21 +590,21 @@
                           <set>
                             <option value="ConsumptionSchedule" />
                             <option value="Account" />
-                            <option value="CollaborationGroup" />
                             <option value="Task" />
+                            <option value="CollaborationGroup" />
                             <option value="AuthorizationFormConsent" />
-                            <option value="ForecastingCategoryMapping" />
                             <option value="OpportunityLineItem" />
+                            <option value="ForecastingCategoryMapping" />
                             <option value="CaseContactRole" />
                             <option value="Activity" />
-                            <option value="Image" />
                             <option value="MessagingEndUser" />
+                            <option value="Image" />
                             <option value="Document" />
                             <option value="ContactCleanInfo" />
                             <option value="ScorecardMetric" />
                             <option value="PushTopic" />
-                            <option value="FeedItem" />
                             <option value="ContractContactRole" />
+                            <option value="FeedItem" />
                             <option value="ExchangeUserMapping" />
                             <option value="SocialPersona" />
                             <option value="Asset" />
@@ -571,8 +612,8 @@
                             <option value="ContactPointTypeConsent" />
                             <option value="OrgMetricScanResult" />
                             <option value="CampaignMember" />
-                            <option value="CollaborationGroupMember" />
                             <option value="Order" />
+                            <option value="CollaborationGroupMember" />
                             <option value="AccountContactRole" />
                             <option value="StreamingChannel" />
                             <option value="EmailMessage" />
@@ -584,31 +625,31 @@
                             <option value="Recommendation" />
                             <option value="Campaign" />
                             <option value="LeadCleanInfo" />
-                            <option value="AuthorizationForm" />
                             <option value="Idea" />
+                            <option value="AuthorizationForm" />
                             <option value="Individual" />
                             <option value="OrgMetricScanSummary" />
                             <option value="MacroUsage" />
                             <option value="ExpressionFilter" />
                             <option value="QuickTextUsage" />
                             <option value="Contract" />
-                            <option value="ScorecardAssociation" />
                             <option value="ChatterActivity" />
-                            <option value="RecordMergeHistory" />
+                            <option value="ScorecardAssociation" />
                             <option value="PartnerRole" />
+                            <option value="RecordMergeHistory" />
                             <option value="OpportunityCompetitor" />
-                            <option value="Site" />
                             <option value="DataUsePurpose" />
-                            <option value="RevenueElement" />
                             <option value="MacroAction" />
-                            <option value="ContactRequest" />
+                            <option value="Site" />
+                            <option value="RevenueElement" />
                             <option value="User" />
+                            <option value="ContactRequest" />
                             <option value="Product2" />
                             <option value="ProductConsumptionSchedule" />
                             <option value="Macro" />
                             <option value="MacroInstruction" />
-                            <option value="ExpressionFilterCriteria" />
                             <option value="DuplicateRecordItem" />
+                            <option value="ExpressionFilterCriteria" />
                             <option value="CaseComment" />
                             <option value="Case" />
                             <option value="SocialPost" />
@@ -616,14 +657,14 @@
                             <option value="ContentVersion" />
                             <option value="Opportunity" />
                             <option value="Lead" />
-                            <option value="Question" />
                             <option value="DuplicateRecordSet" />
-                            <option value="Scorecard" />
+                            <option value="Question" />
                             <option value="Topic" />
+                            <option value="Scorecard" />
                             <option value="Solution" />
-                            <option value="AssetRelationship" />
                             <option value="QuickText" />
                             <option value="StreamActivityAccess" />
+                            <option value="AssetRelationship" />
                             <option value="DandBCompany" />
                             <option value="DataUseLegalBasis" />
                             <option value="OpportunityContactRole" />
@@ -633,46 +674,14 @@
                             <option value="OrderItem" />
                             <option value="MessagingSession" />
                             <option value="AssistantProgress" />
-                            <option value="Event" />
-                            <option value="ConsumptionRate" />
                             <option value="Reply" />
+                            <option value="ConsumptionRate" />
+                            <option value="Event" />
                             <option value="RecordAction" />
                             <option value="TopicAssignment" />
                           </set>
                         </option>
                         <option name="name" value="CustomObject" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Metric.Progress" />
-                            <option value="Opportunity.My_Opp_Type" />
-                            <option value="Metric.Completion" />
-                            <option value="Account.My_Type" />
-                            <option value="Account.Retirement_Type" />
-                            <option value="Account.High_Wealth_Type" />
-                          </set>
-                        </option>
-                        <option name="name" value="RecordType" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Opportunity.DeliveryStatus" />
-                            <option value="Campaign.ViewCampaignInfluenceReport" />
-                            <option value="Case.UpsellCrosssellOpportunity" />
-                            <option value="Account.Billing" />
-                          </set>
-                        </option>
-                        <option name="name" value="WebLink" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Opportunity.new" />
-                          </set>
-                        </option>
-                        <option name="name" value="CompactLayout" />
                       </MetadataType>
                       <MetadataType>
                         <option name="members">
@@ -703,41 +712,41 @@
                             <option value="Task.DelegatedTasks" />
                             <option value="SocialPersona.AllSocialPersonas" />
                             <option value="User.AllUsers" />
-                            <option value="Contract.MyDraftContracts" />
                             <option value="Task.UnscheduledTasks" />
+                            <option value="Contract.MyDraftContracts" />
                             <option value="Lead.TodaysLeads" />
                             <option value="Task.CompletedTasks" />
                             <option value="Solution.AllUnreviewedSolutions" />
                             <option value="Account.NewLastWeek" />
                             <option value="Activity.UpcomingEvents" />
                             <option value="Account.MyAccounts" />
-                            <option value="Opportunity.AllOpportunities" />
                             <option value="Event.TodaysAgenda" />
+                            <option value="Opportunity.AllOpportunities" />
                             <option value="Task.OpenTasks" />
                             <option value="Task.OverdueTasks" />
                             <option value="Contact.BirthdaysThisMonth" />
                             <option value="Account.AllAccounts" />
                             <option value="Opportunity.ClosingThisMonth" />
                             <option value="ContactRequest.My_ContactRequests" />
-                            <option value="Contact.NewThisWeek" />
                             <option value="CollaborationGroup.All_ChatterGroups" />
+                            <option value="Contact.NewThisWeek" />
                             <option value="Activity.AllActivities" />
                             <option value="Opportunity.NewLastWeek" />
-                            <option value="Event.MyRecentEvents" />
                             <option value="Event.MyTeamsRecentEvents" />
+                            <option value="Event.MyRecentEvents" />
                             <option value="Asset.AllAssets" />
                             <option value="User.AdminUsers" />
-                            <option value="AuthorizationFormConsent.All_AuthorizationFormConsents" />
                             <option value="Scorecard.AllScorecards" />
-                            <option value="Campaign.MyActiveCampaigns" />
+                            <option value="AuthorizationFormConsent.All_AuthorizationFormConsents" />
                             <option value="Opportunity.MyOpportunities" />
+                            <option value="Campaign.MyActiveCampaigns" />
                             <option value="AuthorizationForm.All_AuthorizationForms" />
                             <option value="Lead.MyUnreadLeads" />
                             <option value="Product2.AllProducts" />
                             <option value="Campaign.AllActiveCampaigns" />
-                            <option value="Contact.MyContacts" />
-                            <option value="Activity.TodaysTasks" />
                             <option value="AuthorizationFormText.All_AuthorizationFormText" />
+                            <option value="Activity.TodaysTasks" />
+                            <option value="Contact.MyContacts" />
                             <option value="ConsumptionSchedule.All_ConsumptionSchedules" />
                             <option value="Task.RecurringTasks" />
                             <option value="Case.AllClosedCases" />
@@ -746,10 +755,10 @@
                             <option value="Solution.AllReviewedSolutions" />
                             <option value="Account.PlatinumandGoldSLACustomers" />
                             <option value="Activity.MyActivities" />
-                            <option value="Contract.MyInApprovalContracts" />
                             <option value="Task.TodaysTasks" />
-                            <option value="Contract.AllInApprovalContracts" />
+                            <option value="Contract.MyInApprovalContracts" />
                             <option value="Event.MyTeamsUpcomingEvents" />
+                            <option value="Contract.AllInApprovalContracts" />
                             <option value="WorkFeedbackTemplate.All" />
                             <option value="Lead.AllOpenLeads" />
                             <option value="Account.NewThisWeek" />
@@ -771,6 +780,70 @@
                           </set>
                         </option>
                         <option name="name" value="ValidationRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="ConsumptionSchedule" />
+                            <option value="Account" />
+                            <option value="TodayGoal" />
+                            <option value="ActivityRecurrence2" />
+                            <option value="AuthorizationFormConsent" />
+                            <option value="AssistantInteraction" />
+                            <option value="MessagingEndUser" />
+                            <option value="Image" />
+                            <option value="ExchangeUserMapping" />
+                            <option value="Asset" />
+                            <option value="ContactPointTypeConsent" />
+                            <option value="PromptAction" />
+                            <option value="UserEmailPreferredPerson" />
+                            <option value="Order" />
+                            <option value="StreamingChannel" />
+                            <option value="UserProvisioningRequest" />
+                            <option value="OrgDeleteRequest" />
+                            <option value="ComponentResponseCache" />
+                            <option value="CleanLeadBackup" />
+                            <option value="Campaign" />
+                            <option value="AuthorizationForm" />
+                            <option value="Individual" />
+                            <option value="MacroUsage" />
+                            <option value="QuickTextUsage" />
+                            <option value="UserAppMenuCustomization" />
+                            <option value="RecordMergeHistory" />
+                            <option value="DataUsePurpose" />
+                            <option value="User" />
+                            <option value="ContactRequest" />
+                            <option value="AssistantRecommendation" />
+                            <option value="SiqUserBlacklist" />
+                            <option value="Macro" />
+                            <option value="Case" />
+                            <option value="FlowInterview" />
+                            <option value="Opportunity" />
+                            <option value="Lead" />
+                            <option value="ReportResultBlob" />
+                            <option value="Scorecard" />
+                            <option value="QuickText" />
+                            <option value="StreamActivityAccess" />
+                            <option value="DataUseLegalBasis" />
+                            <option value="Calendar2" />
+                            <option value="AuthorizationFormDataUse" />
+                            <option value="NotifDeliveryUserPref" />
+                            <option value="Contact" />
+                            <option value="RequestsForAccessSIQ" />
+                            <option value="ListEmail" />
+                            <option value="AssistantProgress" />
+                            <option value="MessagingSession" />
+                          </set>
+                        </option>
+                        <option name="name" value="SharingRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DE Default" />
+                          </set>
+                        </option>
+                        <option name="name" value="HomePageLayout" />
                       </MetadataType>
                       <MetadataType>
                         <option name="members">
@@ -804,9 +877,13 @@
                             <option value="FillInvoiceNumberController" />
                             <option value="TestData" />
                             <option value="TriggerHandler" />
-                            <option value="TestOpportunityTriggerHandler" />
+                            <option value="InsertOppTestData" />
                             <option value="InsertOpps" />
+                            <option value="TestOpportunityTriggerHandler" />
                             <option value="OpportunityTriggerHandler2" />
+                            <option value="FillInvoiceNumberTest" />
+                            <option value="AccountControllerTest" />
+                            <option value="MainOppTriggerHandler" />
                             <option value="AccountController" />
                           </set>
                         </option>
@@ -815,17 +892,9 @@
                       <MetadataType>
                         <option name="members">
                           <set>
-                            <option value="Internal Zone" />
-                          </set>
-                        </option>
-                        <option name="name" value="Community" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
                             <option value="Contact.Standard_Contact_Match_Rule_v1_1" />
-                            <option value="Account.Standard_Account_Match_Rule_v1_0" />
                             <option value="Lead.Standard_Lead_Match_Rule_v1_0" />
+                            <option value="Account.Standard_Account_Match_Rule_v1_0" />
                           </set>
                         </option>
                         <option name="name" value="MatchingRule" />
@@ -853,8 +922,8 @@
                       <MetadataType>
                         <option name="members">
                           <set>
-                            <option value="Lead.Standard" />
                             <option value="Case.Standard" />
+                            <option value="Lead.Standard" />
                           </set>
                         </option>
                         <option name="name" value="AssignmentRule" />
@@ -864,12 +933,12 @@
                           <set>
                             <option value="standard__Sales" />
                             <option value="standard__LightningService" />
-                            <option value="Christmas_Trees" />
                             <option value="standard__ServiceConsole" />
+                            <option value="Christmas_Trees" />
                             <option value="standard__Community" />
                             <option value="standard__AppLauncher" />
-                            <option value="standard__Chatter" />
                             <option value="standard__LightningInstrumentation" />
+                            <option value="standard__Chatter" />
                             <option value="standard__Platform" />
                             <option value="standard__LightningSales" />
                             <option value="standard__Service" />
@@ -895,8 +964,8 @@
                         <option name="members">
                           <set>
                             <option value="NewGroup" />
-                            <option value="NewLead" />
                             <option value="SendEmail" />
+                            <option value="NewLead" />
                             <option value="NewOpportunity" />
                             <option value="NewTask" />
                             <option value="NewAccount" />
@@ -907,88 +976,24 @@
                             <option value="Task.EditDescription" />
                             <option value="FeedItem.NewTaskFromFeedItem" />
                             <option value="NewNote" />
-                            <option value="CollaborationGroup.NewGroupMember" />
                             <option value="Task.EditDescription_0" />
+                            <option value="CollaborationGroup.NewGroupMember" />
                             <option value="Opportunity.Fill_Invoice_Number_2" />
                             <option value="CollaborationGroup.NewGroupRecord" />
                             <option value="Opportunity.Fill_Invoice_Number" />
                             <option value="Task.UpdateStatus" />
                             <option value="Task.Defer_0" />
-                            <option value="Task.UpdateStatus_0" />
                             <option value="Account.Generate_Report_2" />
-                            <option value="Case.NewChildCase" />
+                            <option value="Task.UpdateStatus_0" />
                             <option value="Case.LogACall" />
+                            <option value="Case.NewChildCase" />
                             <option value="NewContact" />
                             <option value="NewCase" />
-                            <option value="LogACall" />
                             <option value="NewEvent" />
+                            <option value="LogACall" />
                           </set>
                         </option>
                         <option name="name" value="QuickAction" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="ConsumptionSchedule" />
-                            <option value="Account" />
-                            <option value="TodayGoal" />
-                            <option value="AuthorizationFormConsent" />
-                            <option value="ActivityRecurrence2" />
-                            <option value="AssistantInteraction" />
-                            <option value="Image" />
-                            <option value="MessagingEndUser" />
-                            <option value="ExchangeUserMapping" />
-                            <option value="Asset" />
-                            <option value="PromptAction" />
-                            <option value="ContactPointTypeConsent" />
-                            <option value="UserEmailPreferredPerson" />
-                            <option value="Order" />
-                            <option value="StreamingChannel" />
-                            <option value="UserProvisioningRequest" />
-                            <option value="OrgDeleteRequest" />
-                            <option value="ComponentResponseCache" />
-                            <option value="CleanLeadBackup" />
-                            <option value="Campaign" />
-                            <option value="AuthorizationForm" />
-                            <option value="Individual" />
-                            <option value="MacroUsage" />
-                            <option value="QuickTextUsage" />
-                            <option value="UserAppMenuCustomization" />
-                            <option value="RecordMergeHistory" />
-                            <option value="DataUsePurpose" />
-                            <option value="ContactRequest" />
-                            <option value="User" />
-                            <option value="SiqUserBlacklist" />
-                            <option value="AssistantRecommendation" />
-                            <option value="Macro" />
-                            <option value="Case" />
-                            <option value="FlowInterview" />
-                            <option value="Opportunity" />
-                            <option value="Lead" />
-                            <option value="Scorecard" />
-                            <option value="ReportResultBlob" />
-                            <option value="StreamActivityAccess" />
-                            <option value="QuickText" />
-                            <option value="DataUseLegalBasis" />
-                            <option value="Calendar2" />
-                            <option value="AuthorizationFormDataUse" />
-                            <option value="Contact" />
-                            <option value="NotifDeliveryUserPref" />
-                            <option value="RequestsForAccessSIQ" />
-                            <option value="ListEmail" />
-                            <option value="AssistantProgress" />
-                            <option value="MessagingSession" />
-                          </set>
-                        </option>
-                        <option name="name" value="SharingRules" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="DE Default" />
-                          </set>
-                        </option>
-                        <option name="name" value="HomePageLayout" />
                       </MetadataType>
                       <MetadataType>
                         <option name="members">
@@ -1133,8 +1138,8 @@
                           <set>
                             <option value="unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE" />
                             <option value="unfiled$public/SupportSelfServiceResetPassword" />
-                            <option value="unfiled$public/SupportSelfServiceNewLoginandPassword" />
                             <option value="unfiled$public/SupportCaseCreatedPhoneInquiries" />
+                            <option value="unfiled$public/SupportSelfServiceNewLoginandPassword" />
                             <option value="unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE" />
                             <option value="unfiled$public/SupportCaseAssignmentNotification" />
                             <option value="unfiled$public/SupportCaseResponse" />
@@ -1142,8 +1147,8 @@
                             <option value="unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE" />
                             <option value="unfiled$public/SupportCaseCreatedWebInquiries" />
                             <option value="unfiled$public/SupportEscalatedCaseNotification" />
-                            <option value="unfiled$public/SupportEscalatedCaseReassignment" />
                             <option value="unfiled$public/MarketingProductInquiryResponse" />
+                            <option value="unfiled$public/SupportEscalatedCaseReassignment" />
                           </set>
                         </option>
                         <option name="name" value="EmailTemplate" />
@@ -1168,8 +1173,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1368" />
-    <option name="y" value="-8" />
+    <option name="x" value="101" />
+    <option name="y" value="-19" />
     <option name="width" value="1376" />
     <option name="height" value="754" />
   </component>
@@ -1182,6 +1187,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1209,30 +1216,26 @@
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aura" type="462c0819:PsiDirectoryNode" />
-              <item name="FillInvoice" type="edc2aaaf:IlluminatedCloudProjectTreeStructureProvider$BundleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581416465058" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581504960015" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Salesforce projects\Test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1257,24 +1260,30 @@
       <option name="presentableId" value="Default" />
       <updated>1581153548239</updated>
       <workItem from="1581153552459" duration="63000" />
-      <workItem from="1581153618526" duration="17335000" />
+      <workItem from="1581153618526" duration="17565000" />
+      <workItem from="1581416757782" duration="907000" />
+      <workItem from="1581427316057" duration="1059000" />
+      <workItem from="1581491871528" duration="222000" />
+      <workItem from="1581493481801" duration="103000" />
+      <workItem from="1581493635668" duration="8611000" />
+      <workItem from="1581502446363" duration="2178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17398000" />
+    <option name="totallyTimeSpent" value="30708000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1368" y="-8" width="1376" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20440729" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Illuminated Cloud" weight="0.17224081" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -1291,6 +1300,7 @@
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="SOQL Query" order="15" />
+      <window_info active="true" anchor="bottom" id="Illuminated Cloud" order="16" visible="true" weight="0.17224081" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1306,66 +1316,112 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/aura/ParentComponent/ParentComponent.cmp">
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/ChildComponent/ChildComponent.cmp">
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/GenerateReport/GenerateReportController.js">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/invoiceSaved/invoiceSaved.evt">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/Main/Main.cmp">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/Main/MainController.js">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/ParentComponent/ParentComponent.cmp" />
+    <entry file="file://$PROJECT_DIR$/src/aura/ChildComponent/ChildComponent.cmp" />
     <entry file="jar://$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip!/ApexClass.cls">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/TestOpportunityTriggerHandler.cls">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoice.cmp">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    <entry file="file://$PROJECT_DIR$/src/triggers/af.trigger" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/Main/Main.cmp">
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/Main/MainController.js">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoice.cmp">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/invoiceSaved/invoiceSaved.evt">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/GenerateReport/GenerateReportController.js">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/InsertOppTestData.cls">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/AccountControllerTest.cls">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="32" column="96" selection-start-line="32" selection-start-column="96" selection-end-line="32" selection-end-column="96" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/AccountController.cls">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="71" selection-start-column="71" selection-end-column="71" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
   </component>
 </project>

@@ -16,7 +16,7 @@ public with sharing class FillInvoiceNumberController {
         System.debug('recordId acc: ' + recordId);
         Account acc = [SELECT Id, Name,
         (SELECT Id, isMain__c, Invoicing_Item_Number__c
-        FROM Opportunities WHERE isMain__c = true)
+        FROM Opportunities WHERE isMain__c = TRUE)
         FROM Account WHERE Id = :recordId];
         
         if(acc.Opportunities.size() == 1){

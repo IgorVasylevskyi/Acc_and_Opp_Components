@@ -15,15 +15,12 @@ public with sharing class AccountController {
                 
             }else return false;
             
-        }else if(acc.Opportunities.size() == 0){
-            //return error "Account doesn`t have main opp"
-            throw new AuraHandledException('Account doesn`t have main opportunity');
-            
-        }else {
-            //return error "Account has more than one main opp"
-            throw new AuraHandledException('Account has more than one main opportunity');
+        }else if(acc.Opportunities.size() != 1){
+            AuraHandledException e = new AuraHandledException('Account doesn`t have one main opportunity');
+            e.setMessage('Account doesn`t have one main opportunity');
+            throw e;
         }
-        //return false;
         
+        return false;
     }
 }

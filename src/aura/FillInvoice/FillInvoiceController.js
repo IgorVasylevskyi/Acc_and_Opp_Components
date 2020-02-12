@@ -39,6 +39,7 @@
 
                 if(sObjectType == "Opportunity") {
                     $A.get("e.force:closeQuickAction").fire();
+                    $A.get('e.force:refreshView').fire();
                 }
                 console.log("fillInvoiceNumber success");
 
