@@ -28,7 +28,7 @@
                 resultToast.setParams({
                     "type": "success",
                     "title": "Success!",
-                    "message": "Invoice Number succesfully added."
+                    "message": "Invoice Number successfully added."
                 });
                 resultToast.fire();
                 //<EVENT>
