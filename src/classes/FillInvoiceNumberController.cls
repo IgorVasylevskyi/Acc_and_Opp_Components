@@ -4,11 +4,16 @@ public with sharing class FillInvoiceNumberController {
     public static void addInvoiceNumberOpp(String recordId, String invoiceNum){
         System.debug('recordId opp: ' + recordId);
         
-        //try{
-        Opportunity opp = [SELECT Id, Name, Invoicing_Item_Number__c FROM Opportunity WHERE Id = :recordId];
-        opp.Invoicing_Item_Number__c = invoiceNum;
-        update opp;
-        //}catch ()
+        if(invoiceNum.length() <= 18) {
+            Opportunity opp = [SELECT Id, Name, Invoicing_Item_Number__c FROM Opportunity WHERE Id = :recordId];
+            opp.Invoicing_Item_Number__c = invoiceNum;
+            update opp;
+        }else {
+            AuraHandledException e = new AuraHandledException('Invoice number is too long');
+            e.setMessage('Invoice number is too long');
+            throw e;
+        }
+        
     }
     
     @AuraEnabled

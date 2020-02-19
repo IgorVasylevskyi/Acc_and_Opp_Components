@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee59679-a118-43c9-85d8-fc39af2c0026" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classes/GenerateReportController.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/GenerateReportController.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/GenerateReportTest.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/GenerateReportTest.cls-meta.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/igor1@redtrainoct19.com1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/igor1@redtrainoct19.com1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReportController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReportController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/Main/Main.cmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/Main/Main.cmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aura/Main/MainController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/aura/Main/MainController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/GenerateReportController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/GenerateReportController.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,44 +19,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Test$FillInvoiceNumberTest_addNumber.null" NAME="igor1@redtrainoct19.com Coverage Results" MODIFIED="1582012543849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="Apex" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" PROJECT_NAME="Test" CONNECTION_NAME="igor1@redtrainoct19.com" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/Main/MainController.js">
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        <entry file="file://$PROJECT_DIR$/src/classes/InsertManyOpps.cls">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoice.cmp">
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp">
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aura/GenerateReport/GenerateReportController.js">
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/TestOpportunityTriggerHandler.cls">
+        <entry file="file://$PROJECT_DIR$/src/classes/AccountControllerTest.cls">
           <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/MainOppTriggerHandlerTest.cls">
+        <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls">
           <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
         </entry>
@@ -67,20 +51,23 @@
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classes/GenerateReportController.cls">
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/AccountControllerTest.cls">
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        <entry file="file://$PROJECT_DIR$/src/classes/GenerateReportTest.cls">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classes/InsertOppTestData.cls">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classes/GenerateReportController.cls">
           <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
         </entry>
@@ -112,18 +99,20 @@
         <option value="$PROJECT_DIR$/src/aura/invoiceSaved/invoiceSaved.evt" />
         <option value="$PROJECT_DIR$/IlluminatedCloud/.gitignore" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" />
         <option value="$PROJECT_DIR$/src/classes/AccountControllerTest.cls" />
-        <option value="$PROJECT_DIR$/src/classes/AccountController.cls" />
         <option value="$PROJECT_DIR$/src/classes/MainOppTriggerHandler.cls" />
-        <option value="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" />
-        <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" />
         <option value="$PROJECT_DIR$/src/classes/MainOppTriggerHandlerTest.cls" />
-        <option value="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" />
         <option value="$PROJECT_DIR$/src/aura/Main/MainController.js" />
         <option value="$PROJECT_DIR$/src/aura/Main/Main.cmp" />
         <option value="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp" />
         <option value="$PROJECT_DIR$/src/aura/GenerateReport/GenerateReportController.js" />
+        <option value="$PROJECT_DIR$/src/classes/InsertOppTestData.cls" />
+        <option value="$PROJECT_DIR$/src/classes/AccountController.cls" />
+        <option value="$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js" />
+        <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls" />
+        <option value="$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls" />
+        <option value="$PROJECT_DIR$/src/classes/GenerateReportTest.cls" />
+        <option value="$PROJECT_DIR$/src/classes/InsertManyOpps.cls" />
         <option value="$PROJECT_DIR$/src/classes/GenerateReportController.cls" />
       </list>
     </option>
@@ -134,7 +123,7 @@
         <entry key="igor1@redtrainoct19.com1">
           <value>
             <ModuleWorkspaceSettings>
-              <option name="moduleContentsLastModified" value="1581533134929" />
+              <option name="moduleContentsLastModified" value="1582058381887" />
               <option name="serverMetadataLastPopulated" value="1581502338044" />
             </ModuleWorkspaceSettings>
           </value>
@@ -143,6 +132,19 @@
     </option>
     <option name="projectWorkspaceSettings">
       <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="apexLogLevel" value="FINEST" />
+            <option name="calloutsLogLevel" value="ERROR" />
+            <option name="documentText" value="List&lt;Opportunity&gt; opps = [Select Name, Type From Opportunity&#10;Where accountId = '0015J000003rwkzQAA'];&#10;System.debug('opps: ' + opps);&#10;Set&lt;String&gt; res = new Set&lt;String&gt;();&#10;List&lt;String&gt; res2 = new List&lt;String&gt;();&#10;for(Opportunity opp : opps){&#10;    res2.add(opp.Type);&#10;    for(integer i = 1; i &lt; res2.size(); i++){&#10;        if(!res2.contains(res2.get(i) + opp.Type)){&#10;            res2.add(res2.get(i) + opp.Type);&#10;        }&#10;    }&#10;}&#10;System.debug('res2: ' + res2);&#10;" />
+            <option name="profilingLogLevel" value="ERROR" />
+            <option name="splitterProportion" value="0.4849188" />
+            <option name="systemLogLevel" value="FINEST" />
+            <option name="validationLogLevel" value="ERROR" />
+            <option name="visualforceLogLevel" value="ERROR" />
+            <option name="workflowLogLevel" value="ERROR" />
+          </AnonymousApexSettings>
+        </option>
         <option name="connectionWorkspaceSettings">
           <map>
             <entry key="igor1@redtrainoct19.com">
@@ -150,15 +152,18 @@
                 <ConnectionWorkspaceSettings>
                   <option name="buildSuccessDatesBySourceRootRelativePath">
                     <map>
-                      <entry key="AURA/FILLINVOICE" value="1581589336000" />
+                      <entry key="AURA/FILLINVOICE" value="1581930083000" />
                       <entry key="AURA/GENERATEREPORT" value="1581597462488" />
                       <entry key="AURA/INVOICESAVED" value="1581326977000" />
                       <entry key="AURA/MAIN" value="1581595062281" />
                       <entry key="CLASSES/ACCOUNTCONTROLLER.CLS" value="1581502043208" />
                       <entry key="CLASSES/ACCOUNTCONTROLLERTEST.CLS" value="1581501898871" />
-                      <entry key="CLASSES/FILLINVOICENUMBERTEST.CLS" value="1581499263238" />
-                      <entry key="CLASSES/GENERATEREPORTCONTROLLER.CLS" value="1581597234000" />
-                      <entry key="CLASSES/INSERTOPPTESTDATA.CLS" value="1581509853679" />
+                      <entry key="CLASSES/FILLINVOICENUMBERCONTROLLER.CLS" value="1581931220642" />
+                      <entry key="CLASSES/FILLINVOICENUMBERTEST.CLS" value="1581931273939" />
+                      <entry key="CLASSES/GENERATEREPORTCONTROLLER.CLS" value="1582104714054" />
+                      <entry key="CLASSES/GENERATEREPORTTEST.CLS" value="1582028284622" />
+                      <entry key="CLASSES/INSERTMANYOPPS.CLS" value="1582103602539" />
+                      <entry key="CLASSES/INSERTOPPTESTDATA.CLS" value="1581929256215" />
                       <entry key="CLASSES/MAINOPPTRIGGERHANDLER.CLS" value="1581507057000" />
                       <entry key="CLASSES/MAINOPPTRIGGERHANDLERTEST.CLS" value="1581510144872" />
                     </map>
@@ -1200,9 +1205,9 @@
       </ProjectWorkspaceSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1553" />
-    <option name="y" value="-19" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="214" />
+    <option name="y" value="-12" />
     <option name="width" value="1026" />
     <option name="height" value="554" />
   </component>
@@ -1276,7 +1281,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581882484932" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582105323319" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -1298,6 +1303,52 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="FillInvoiceNumberTest.addNumber" type="com.illuminatedcloud.intellij" factoryName="Apex Unit Tests" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allTests" value="false" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="apexLogLevel" value="FINEST" />
+      <option name="calloutsLogLevel" value="ERROR" />
+      <option name="connectionName" value="igor1@redtrainoct19.com" />
+      <option name="contextConfiguration" value="true" />
+      <option name="databaseLogLevel" value="INFO" />
+      <option name="logLevelsInitialized" value="true" />
+      <option name="moduleToTestClassNames">
+        <map>
+          <entry key="igor1@redtrainoct19.com1">
+            <value>
+              <set>
+                <option value="FillInvoiceNumberTest" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="profilingLogLevel" value="ERROR" />
+      <option name="systemLogLevel" value="FINEST" />
+      <option name="testClassToTestMethodNames">
+        <map>
+          <entry key="FillInvoiceNumberTest">
+            <value>
+              <set>
+                <option value="addNumber" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="testSuiteName" />
+      <option name="validationLogLevel" value="ERROR" />
+      <option name="visualforceLogLevel" value="ERROR" />
+      <option name="workflowLogLevel" value="ERROR" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Apex Unit Tests.FillInvoiceNumberTest.addNumber" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -1317,18 +1368,18 @@
       <workItem from="1581493635668" duration="8611000" />
       <workItem from="1581502446363" duration="18543000" />
       <workItem from="1581590629558" duration="9486000" />
-      <workItem from="1581663806391" duration="3774000" />
+      <workItem from="1581663806391" duration="38639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60333000" />
+    <option name="totallyTimeSpent" value="95198000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1368" y="-8" width="1376" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23024316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22919819" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1338,7 +1389,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966556" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1347,11 +1398,11 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32943144" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32943144" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="12" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="12" weight="0.78595316" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="SOQL Query" order="15" />
-      <window_info anchor="bottom" id="Illuminated Cloud" order="16" weight="0.17224081" />
+      <window_info anchor="bottom" id="SOQL Query" order="15" weight="0.32943144" />
+      <window_info anchor="bottom" id="Illuminated Cloud" order="16" weight="0.17892976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1400,47 +1451,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls">
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/AccountController.cls">
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aura/Main/Main.cmp">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js">
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aura/Main/MainController.js">
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoice.cmp">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/InsertOppTestData.cls">
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aura/GenerateReport/GenerateReport.cmp">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
@@ -1465,6 +1484,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/Main/MainController.js">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aura/FillInvoice/FillInvoiceController.js">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/AccountController.cls">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberController.cls">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip!/System/String.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="498" selection-start-line="498" selection-end-line="498" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip!/System/System.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/IlluminatedCloud/igor1_redtrainoct19_com/OfflineSymbolTable.zip!/System/List.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/FillInvoiceNumberTest.cls">
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
@@ -1474,12 +1537,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/InsertOppTestData.cls">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/AccountControllerTest.cls">
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="32" column="96" selection-start-line="32" selection-start-column="96" selection-end-line="32" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/InsertManyOpps.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/GenerateReportTest.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>

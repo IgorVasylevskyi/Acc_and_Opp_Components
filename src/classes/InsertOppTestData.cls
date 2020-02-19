@@ -43,4 +43,11 @@ public class InsertOppTestData {
         insert acc;
         return acc;
     }
+    
+    public static Opportunity addOpportunity(){
+        Opportunity opp = new Opportunity(Name = 'Test opp', CloseDate = Date.today(),
+                StageName = 'New');
+        insert opp;
+        return opp;
+    }
 }

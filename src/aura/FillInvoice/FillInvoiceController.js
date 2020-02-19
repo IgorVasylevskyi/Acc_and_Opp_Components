@@ -45,6 +45,13 @@
 
             }else{
                 console.log("fillInvoiceNumber failed with state " + state);
+                var resultToast = $A.get("e.force:showToast");
+                resultToast.setParams({
+                    "type": "error",
+                    "title": "ERROR!",
+                    "message": "Invoice Number is too long"
+                });
+                resultToast.fire();
             }
         });
         $A.enqueueAction(action);
